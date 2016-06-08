@@ -1,11 +1,14 @@
 {
   "name": "wdio-concise-reporter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Reporter that is concise",
-  "main": "index.js",
+  "main": "build/reporter.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/FloValence/wdio-concise-reporter.git"
+  },
+  "directories": {
+    "lib": "./lib"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
