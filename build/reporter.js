@@ -219,4 +219,5 @@ var ConciseReporter = function (_events$EventEmitter) {
 
 ConciseReporter.reporterName = 'Concise';
 
-exports.default = ConciseReporter;
+exports['default'] = ConciseReporter;
+module.exports = exports['default'];
