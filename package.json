@@ -1,0 +1,21 @@
+{
+  "name": "wdio-concise-reporter",
+  "version": "0.0.1",
+  "description": "Reporter that is concise",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FloValence/wdio-concise-reporter.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wdio",
+    "webdriverio",
+    "concise",
+    "reporter"
+  ],
+  "author": "Florian Valence <florian.m.valence@gmail.com>",
+  "license": "ISC"
+}
