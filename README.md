@@ -8,7 +8,7 @@ A concise reporter for WebdriverIO
 
 ## Installation
 ```bash
-npm install FloValence/wdio-concise-reporter --save-dev
+npm install wdio-concise-reporter --save-dev
 ```
 
 Instructions on how to install `WebdriverIO` can be found
