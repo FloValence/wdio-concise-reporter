@@ -1,6 +1,6 @@
 {
   "name": "wdio-concise-reporter",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Reporter that is concise",
   "main": "build/reporter.js",
   "repository": {
