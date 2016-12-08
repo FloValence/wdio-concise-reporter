@@ -11,7 +11,9 @@
     "lib": "./lib"
   },
   "scripts": {
-    "build": "rimraf build && babel lib -d build"
+    "build": "rimraf build && babel lib -d build",
+    "watch": "babel lib -d build --watch",
+    "prepublish": "npm prune && npm run build"
   },
   "keywords": [
     "wdio",
