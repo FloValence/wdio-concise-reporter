@@ -1,6 +1,6 @@
 {
   "name": "Wdio-concise-reporter",
   "tagline": "A concise reporter for WebdriverIO",
-  "body": "# WDIO Concise Reporter\r\nA concise reporter for WebdriverIO\r\n\r\n>This project is derived from [WDIO-Json-Reporter](https://github.com/fijijavis/wdio-json-reporter)\r\n\r\n![WDIO Concise Reporter error](./example_error.png)\r\n![WDIO Concise Reporter success](./example_success.png)\r\n\r\n## Installation\r\n```bash\r\nnpm install wdio-concise-reporter --save-dev\r\n```\r\n\r\nInstructions on how to install `WebdriverIO` can be found\r\n[here](http://webdriver.io/guide/getstarted/install.html).\r\n\r\n## Configuration\r\n\r\nAll is in the title there in no configuration,\r\nwe try to keep it as concise as possible\r\n",
+  "body": "# WDIO Concise Reporter\r\nA concise reporter for WebdriverIO\r\n\r\n>This project is derived from [WDIO-Json-Reporter](https://github.com/fijijavis/wdio-json-reporter)\r\n\r\n![WDIO Concise Reporter error](images/example_error.png)\r\n![WDIO Concise Reporter success](images/example_success.png)\r\n\r\n## Installation\r\n```bash\r\nnpm install wdio-concise-reporter --save-dev\r\n```\r\n\r\nInstructions on how to install `WebdriverIO` can be found\r\n[here](http://webdriver.io/guide/getstarted/install.html).\r\n\r\n## Configuration\r\n\r\nAll is in the title there in no configuration,\r\nwe try to keep it as concise as possible\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
